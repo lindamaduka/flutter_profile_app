@@ -2,6 +2,9 @@
 
 // StatelessWidget is used because this screen only
 // displays fixed information
+
+//BRANCH
+
 import 'package:flutter/material.dart';
 
 class ProfileScreen extends StatelessWidget {
